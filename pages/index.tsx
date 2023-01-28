@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Yuto's portfolio</title>
+        <title>Yuto&apos;portfolio</title>
       </Head>
       <h1 className='p-10 text-red-500'>Lets build an AWESOME portfolio</h1>
     </>
