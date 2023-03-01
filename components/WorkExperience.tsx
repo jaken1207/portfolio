@@ -1,6 +1,5 @@
 import React from "react";
 import { motion } from "framer-motion";
-import ExperienceCard from "./ExperienceCard_02";
 import ExperienceCard_01 from "./ExperienceCard_01";
 import ExperienceCard_02 from "./ExperienceCard_02";
 import ExperienceCard_03 from "./ExperienceCard_03";
