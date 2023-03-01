@@ -42,7 +42,7 @@ export default function ExperienceCard_03({}: Props) {
           </li>
           <li>
             <a href="https://www.youtube.com/playlist?list=PL1_CJkfPgC2BjZjrzL7WLVu89OmWLcLYy">
-              <u>Let's Go Up マ・フォーレ</u>
+              <u>Lets Go Up マ・フォーレ</u>
             </a>
           </li>
           <li>
