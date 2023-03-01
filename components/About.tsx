@@ -30,20 +30,26 @@ export default function About({}: Props) {
       />
       <div className="space-y-10 px-0 md:px-10">
         <h4 className="text-4xl font-semibold">
-          Here is a{" "}
-          <span className="underline decoration-[#F7AB0A]/50">little</span>{" "}
-          background
+          <span className="underline decoration-[#F7AB0A]/50">経歴</span>{" "}
         </h4>
         <p className="text-base">
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-          aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+          私のポートフォリオを閲覧してくださり、ありがとうございます。
+          <br />
+          まだ、未完成のサイトですが、許してください。
+          <br />
+          ここで、少し私の自己紹介をしようと思います。
+          <br />
+          私が現在、情報系絵イノベーション専門職大学に所属している大学3年生です。
+          <br />
+          大学では教育工学ゼミに所属しており、拡張現実を位置情報共有システムの開発、
+          <br />
+          および、それらの優位性について研究しています。
+          <br />
+          また、私は大学1年の冬から長期インターンに参加してきました。
+          <br />
+          機械学習やWebアプリ開発、動画編集のスキルを習得しました。
+          <br />
+          最近はバックエンドの知識を深めています。
         </p>
       </div>
     </motion.div>
