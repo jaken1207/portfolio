@@ -20,7 +20,7 @@ export default function ExperienceCard_01({}: Props) {
       />
 
       <div className="px-0 md:px-10">
-        <h4 className="text-4xl font-light">ソフトウェアエンジニア</h4>
+        <h4 className="text-4xl font-light">フロントエンドエンジニア</h4>
         <p className="font-bold text-2xl mt-1">Arithmer株式会社 研究開発本部</p>
         <div className="flex space-x-2 my-2">
           <img className="h-10 w-10 rounded-full" src="/javascript.png" />
